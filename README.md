@@ -82,6 +82,7 @@
 - Syndica: https://syndica.io/
 
 ### Data/API
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - On-chain trust scoring MCP server for AI agent wallets. Verify Solana wallet identity and reputation via free MCP tools.
 - Token list: https://github.com/solana-labs/token-list/blob/main/src/tokens/solana.tokenlist.json
 - `Serum` Price API by `Sonar`: https://docs-price-api.sonar.watch/
 - DataHub: https://figment.io/datahub/
